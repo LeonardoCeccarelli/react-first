@@ -1,4 +1,4 @@
-import './App.css';
+import './style.js';
 import Title from './components/Title'
 
 function App() {
